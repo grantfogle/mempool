@@ -8,7 +8,7 @@ import { WebsocketService } from '../../services/websocket.service';
 
 @Component({
   selector: 'app-blocks-list',
-  templateUrl: './blocks-list.component.html',
+  templateUrl: './blocks-list-rewrite.component.html',
   styleUrls: ['./blocks-list.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
